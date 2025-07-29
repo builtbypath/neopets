@@ -2,7 +2,7 @@
 // @name         Neopets - Mark Books Read (Auto Update)
 // @version      2025-07-27
 // @description  Automatically fetch books read and mark them in inventory, shops, SDB, etc.
-// @author       senerio + GPT
+// @author       senerio + GPT, modified by https://github.com/builtbypath/neopets to auto-update (versus manually checking site)
 // @match        *://*.neopets.com/*
 // @connect      itemdb.com.br
 // @grant        GM_xmlhttpRequest
