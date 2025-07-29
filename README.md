@@ -97,6 +97,9 @@ Redirects any `impress-2020.openneo.net` tradelist link to their `impress.openne
 Redirects completed pet training pages to the “status” tab, skipping the training academy’s front page.  
 Works on both the Swashbuckling Academy and Mystery Island Training School.
 
+**Preview:**  
+<img src="https://i.imgur.com/UAnuYlu.gif" width="50%">
+
 ---
 
 ### 🔍 `search-sdb-from-DTI-item-pages.js`  
