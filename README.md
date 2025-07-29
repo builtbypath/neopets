@@ -26,10 +26,10 @@ Also automatically highlights messages from The Neopets Team (TNT) in light red 
 ---
 
 ### 📋 `copy-username-option-when-hovering.js`  
-Adds a “Copy Username” button when hovering over usernames.
+Adds a “Copy Username” button when hovering over usernames anywhere on the site.
 
 **Preview:**  
-![copy-username](./media/copy-username.gif)
+<img src="https://i.imgur.com/MunZVtg.png" width="30%">
 
 ---
 
@@ -37,15 +37,16 @@ Adds a “Copy Username” button when hovering over usernames.
 Adds buttons to go directly to a user’s Wishlist or Trade List on Dress to Impress.
 
 **Preview:**  
-![jump-wl-tl](./media/jump-wl-tl.gif)
+<img src="https://i.imgur.com/jsx71OS.png" width="30%">
 
 ---
 
 ### 🛒 `highlight-permanent-buyables.js`  
-Automatically highlights “Permanent Buyable” text across DTI and Neopets item pages.
+Automatically highlights “Permanent Buyable” text across DTI and Neopets item pages.  
+Requires the [Neopets Lebron NC Values](https://greasyfork.org/en/scripts/540477-neopets-lebron-nc-values) script to be installed and running.
 
 **Preview:**  
-![perm-buyable](./media/perm-buyable.gif)
+<img src="https://i.imgur.com/0PYNiQ9.png" width="40%">
 
 ---
 
