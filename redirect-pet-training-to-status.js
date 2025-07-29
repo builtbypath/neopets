@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Redirect Training & Academy Pages to Status View
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/builtbypath/neopets
 // @version      1.2
 // @description  Redirects training and academy pages to their ?type=status view by default on Neopets
 // @author       You
