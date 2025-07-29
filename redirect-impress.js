@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Redirect Impress-2020 to DTI Using Username
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/builtbypath/neopets
 // @version      1.1
 // @description  Redirects impress-2020.openneo.net user pages to correct impress.openneo.net URLs by extracting username from <h1>
 // @match        *://impress-2020.openneo.net/user/*
