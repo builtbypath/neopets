@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Neoboard Minimum Font Size (12pt)
-// @namespace    http://your.homepage/
+// @namespace    https://github.com/builtbypath/neopets
 // @version      1.0
 // @description  Enforce minimum font size of 12pt on Neopets Neoboards
 // @match        https://www.neopets.com/neoboards/topic.phtml?topic=*
