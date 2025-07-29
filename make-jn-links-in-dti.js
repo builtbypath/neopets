@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Converts JN wishlists to links in DTI
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/builtbypath/neopets
 // @version      1.2
 // @description  Converts Jellyneo wishlist text to clickable links in the "Trading Info" section on DTI closet pages only where expected
 // @author       You
