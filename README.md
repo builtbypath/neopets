@@ -17,10 +17,11 @@
 ## 📜 Script Descriptions and GIFs
 
 ### ✅ `add-highlighting-to-nm.js`  
-Highlights message status in Neomail (like “Replied” or “Read”) so they’re easy to scan.
+Highlights message status in Neomail (like “Replied” and “Read”) so they’re easier to scan.  
+Also automatically highlights messages from The Neopets Team (TNT) in light red for visibility.
 
 **Preview:**  
-![highlight-nm](./media/highlight-nm.gif)
+![highlight-nm](https://i.imgur.com/d7LshGm.png)
 
 ---
 
