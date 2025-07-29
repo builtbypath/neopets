@@ -137,7 +137,4 @@ Stay safe out there!
 
 Whether you're organizing your closet, browsing Neomail, or checking your SDB — we hope these little enhancements bring some ✨ joy and ease ✨ to your Neopets adventures.
 
-**Happy quoting? Phrasing?**  
-Either way – enjoy the userscripts!
-
 ---
