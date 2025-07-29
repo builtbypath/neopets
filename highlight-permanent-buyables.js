@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Highlight Permanent Buyable (Button Blue Style)
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/builtbypath/neopets
 // @version      1.3
 // @description  Highlights "Permanent Buyable" to match Neopets button styling (blue background, white bold text)
 // @author       You
