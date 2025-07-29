@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Jellyneo to DTI Item Search
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/builtbypath/neopets
 // @version      1.0
 // @description  Highlight text on Jellyneo to search on Dress to Impress
 // @match        https://items.jellyneo.net/*
