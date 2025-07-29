@@ -51,10 +51,10 @@ Requires the [Neopets Lebron NC Values](https://greasyfork.org/en/scripts/540477
 ---
 
 ### ✏️ `highlight-text-to-search-sdb.js`  
-Lets you highlight any item name and instantly search for it in your Safety Deposit Box.
+Lets you highlight any item name on the site and instantly search for it in your Safety Deposit Box.
 
 **Preview:**  
-![highlight-search](./media/highlight-search.gif)
+<img src="https://i.imgur.com/NIAsgIe.gif" width="50%">
 
 ---
 
