@@ -14,8 +14,7 @@ s# 🧙 Neopets Userscripts Collection
    - [**Greasemonkey** for Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 2. Click on any `.js` file in this repo  
 3. Press **Install** on the userscript screen  
-4. Refresh your Neopets or DTI page to see the magic ✨### 🔧 How to Install
-
+4. Refresh your Neopets or DTI page to see the magic ✨
 ---
 
 ## 📜 Script Descriptions and GIFs
