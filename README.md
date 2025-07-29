@@ -1,4 +1,4 @@
-# 🧙 Neopets Userscripts Collection
+s# 🧙 Neopets Userscripts Collection
 
 > Built using **ChatGPT-4o**  
 > Enhance your Neopets experience with quality-of-life scripts for navigation, readability, and customization.
@@ -7,10 +7,14 @@
 
 ## 🔧 How to Install
 
-1. Install [Tampermonkey](https://www.tampermonkey.net/)
-2. Click on any `.js` file in this repo
-3. Press **Install** on the Tampermonkey screen
-4. Refresh your Neopets or DTI page to see the magic
+	1.	Install a userscript manager like
+  - Userscripts (OpenUserJS) for Chrome/Edge
+  - Violentmonkey for Firefox
+  - Tampermonkey (Chrome, Firefox, Edge)
+  - Greasemonkey for Firefox
+	2.	Click on any .js file in this repo
+	3.	Press Install on the userscript screen
+	4.	Refresh your Neopets or DTI page to see the magic ✨
 
 ---
 
