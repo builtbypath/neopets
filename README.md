@@ -21,7 +21,7 @@ Highlights message status in Neomail (like “Replied” and “Read”) so they
 Also automatically highlights messages from The Neopets Team (TNT) in light red for visibility.
 
 **Preview:**  
-![highlight-nm](https://i.imgur.com/d7LshGm.png)
+<img src="https://i.imgur.com/nsEV8XO.png" width="50%">
 
 ---
 
