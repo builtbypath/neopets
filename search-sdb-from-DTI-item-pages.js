@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         DTI Item Page → SDB Search Button (Persistent)
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/builtbypath/neopets
 // @version      1.4
 // @description  Adds an SDB 🔍 button next to the item name on DTI item pages, and keeps it there even after TL edits or soft reloads.
 // @author       You
