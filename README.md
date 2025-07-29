@@ -1,127 +1,141 @@
-Absolutely! Here’s a cleaner, more concise version of your README with short dashes and a credit line to ChatGPT-4o. I’ve removed long em dashes and tightened up the language for clarity and friendliness.
+# 🧙 Neopets Userscripts Collection
 
-⸻
+> Built using **ChatGPT-4o**  
+> Enhance your Neopets experience with quality-of-life scripts for navigation, readability, and customization.
 
-🧙 Neopets Userscripts Collection
+---
 
-A set of handy userscripts to improve your Neopets experience – from faster navigation to visual highlights and link fixes.
+## 🔧 How to Install
 
-All scripts are built for Tampermonkey and were created using ChatGPT-4o with love and plenty of testing.
+1. Install [Tampermonkey](https://www.tampermonkey.net/)
+2. Click on any `.js` file in this repo
+3. Press **Install** on the Tampermonkey screen
+4. Refresh your Neopets or DTI page to see the magic
 
-⸻
+---
 
-📁 Script Summaries
+## 📜 Script Descriptions and GIFs
 
-add-highlighting-to-nm.js
+### ✅ `add-highlighting-to-nm.js`  
+Highlights message status in Neomail (like “Replied” or “Read”) so they’re easy to scan.
 
-Highlights Neomail status cells (like “Read” or “Replied”) so you can see message status at a glance.
-Preview:
+**Preview:**  
+![highlight-nm](./media/highlight-nm.gif)
 
+---
 
-⸻
+### 📋 `copy-username-option-when-hovering.js`  
+Adds a “Copy Username” button when hovering over usernames.
 
-copy-username-option-when-hovering.js
+**Preview:**  
+![copy-username](./media/copy-username.gif)
 
-Adds a copy-to-clipboard option when hovering over usernames.
-Preview:
+---
 
+### 🎯 `dti-jump-to-wl-or-tl.js`  
+Adds buttons to go directly to a user’s Wishlist or Trade List on Dress to Impress.
 
-⸻
+**Preview:**  
+![jump-wl-tl](./media/jump-wl-tl.gif)
 
-dti-jump-to-wl-or-tl.js
+---
 
-Adds buttons to jump straight to a user’s wishlist or trade list on DTI, when available.
-Preview:
+### 🛒 `highlight-permanent-buyables.js`  
+Automatically highlights “Permanent Buyable” text across DTI and Neopets item pages.
 
+**Preview:**  
+![perm-buyable](./media/perm-buyable.gif)
 
-⸻
+---
 
-highlight-permanent-buyables.js
+### ✏️ `highlight-text-to-search-sdb.js`  
+Lets you highlight any item name and instantly search for it in your Safety Deposit Box.
 
-Highlights any “Permanent Buyable” label on DTI or Neopets so it’s easy to spot.
-Preview:
+**Preview:**  
+![highlight-search](./media/highlight-search.gif)
 
+---
 
-⸻
+### 🧩 `jellyneo-to-dti-item-search.js`  
+Converts Jellyneo links into direct item searches on Dress to Impress.
 
-highlight-text-to-search-sdb.js
+**Preview:**  
+![jn-to-dti](./media/jn-to-dti.gif)
 
-Lets you highlight any item name and instantly search for it in your SDB.
-Preview:
+---
 
+### 🔗 `make-jn-links-in-dti.js`  
+Turns plain-text Jellyneo URLs in DTI wishlists into clickable links.
 
-⸻
+**Preview:**  
+![jn-links-dti](./media/jn-links-dti.gif)
 
-jellyneo-to-dti-item-search.js
+---
 
-Turns Jellyneo item links into quick searches on DTI to view the wearable.
-Preview:
+### 🌐 `make-ncboard-links-clickable.js`  
+Fixes Neoboard links that don’t work – makes them clickable again.
 
+**Preview:**  
+![ncboard-links](./media/ncboard-links.gif)
 
-⸻
+---
 
-make-jn-links-in-dti.js
+### 📚 `mark-books-read-EDIT-PETNAME.js`  
+Highlights which books your pet has already read.  
+Rename the file to include your pet’s name.
 
-Converts plain Jellyneo URLs in DTI lists into working clickable links.
-Preview:
+**Preview:**  
+![books-read](./media/books-read.gif)
 
+---
 
-⸻
+### 👓 `neoboard-minimum-font-size.js`  
+Ensures all Neoboard posts use a readable minimum font size of 12pt.
 
-make-ncboard-links-clickable.js
+**Preview:**  
+![neoboard-font](./media/neoboard-font.gif)
 
-Fixes broken Neoboard links so you can actually click them.
-Preview:
+---
 
+### 🔄 `redirect-impress.js`  
+Redirects outdated links from `impress-2020.openneo.net` to the updated DTI site.
 
-⸻
+**Preview:**  
+![redirect-impress](./media/redirect-impress.gif)
 
-mark-books-read-EDIT-PETNAME.js
+---
 
-Marks which books your pet has already read in book lists.
-Rename the script to include your pet’s name.
-Preview:
+### 🐾 `redirect-pet-training-to-status.js`  
+Automatically redirects pet training pages to the “status” view.
 
+**Preview:**  
+![redirect-training](./media/redirect-training.gif)
 
-⸻
+---
 
-neoboard-minimum-font-size.js
+### 🔍 `search-sdb-from-DTI-item-pages.js`  
+Adds a 🔍 “Search SDB” button directly on DTI item pages.
 
-Ensures the font on Neoboards is always at least 12pt – no more squinting.
-Preview:
+**Preview:**  
+![sdb-from-dti](./media/sdb-from-dti.gif)
 
+---
 
-⸻
+## ⚠️ A Quick Safety Note
 
-redirect-impress.js
+Download userscripts at your own risk. Always run any userscript through a virus checker before installing — even if it looks simple.
 
-Redirects broken links from impress-2020.openneo.net to the updated site.
-Preview:
+Userscripts can easily be modified for malicious purposes. If someone customizes or reshares this script elsewhere, run that version through a checker too before trusting it.
 
+Stay safe out there!
 
-⸻
+---
 
-redirect-pet-training-to-status.js
+## 🎉 Enjoy the Userscripts!
 
-Automatically redirects pet training pages to the status page to save clicks.
-Preview:
+Whether you're organizing your closet, browsing Neomail, or checking your SDB — we hope these little enhancements bring some ✨ joy and ease ✨ to your Neopets adventures.
 
+**Happy quoting? Phrasing?**  
+Either way – enjoy the userscripts!
 
-⸻
-
-search-sdb-from-DTI-item-pages.js
-
-Adds a 🔍 button on DTI item pages to instantly search your SDB for the item.
-Preview:
-
-
-⸻
-
-✅ How to Use
-	1.	Install Tampermonkey
-	2.	Click on any .js file in this repo and hit Install
-	3.	Visit the Neopets page it works on – the feature should be live
-
-⸻
-
-Want help generating GIFs or need the README in Markdown or HTML format? Just let me know!
+---
