@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Neomail Enhancer: Status + NC Subject Highlighter
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/builtbypath/neopets
 // @version      1.2
 // @description  Highlights Neomail status cells and specific Neocash gift subjects
 // @match        https://www.neopets.com/neomessages.phtml*
