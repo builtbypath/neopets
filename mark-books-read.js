@@ -12,7 +12,7 @@
 (function () {
   'use strict';
 
-  // ==== SET YOUR PET'S NAME HERE ====
+  // ==== PETNAMEHERE ====
   const petName = 'PETNAMEHERE';
 
   // ===== STORAGE UTILITIES =====
