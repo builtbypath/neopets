@@ -59,59 +59,44 @@ Lets you highlight any item name on the site and instantly search for it in your
 ---
 
 ### 🧩 `jellyneo-to-dti-item-search.js`  
-Converts Jellyneo links into direct item searches on Dress to Impress.
+Lets you highlight any item name on JellyNeo and instantly search for it on DTI.
 
 **Preview:**  
-![jn-to-dti](./media/jn-to-dti.gif)
+<img src="https://i.imgur.com/YagNRyg.gif" width="50%">
 
 ---
 
 ### 🔗 `make-jn-links-in-dti.js`  
 Turns plain-text Jellyneo URLs in DTI wishlists into clickable links.
 
-**Preview:**  
-![jn-links-dti](./media/jn-links-dti.gif)
-
 ---
 
 ### 🌐 `make-ncboard-links-clickable.js`  
-Fixes Neoboard links that don’t work – makes them clickable again.
-
-**Preview:**  
-![ncboard-links](./media/ncboard-links.gif)
+Turns Neoboard plain-text links into clickable links.
 
 ---
 
 ### 📚 `mark-books-read-EDIT-PETNAME.js`  
-Highlights which books your pet has already read.  
-Rename the file to include your pet’s name.
-
-**Preview:**  
-![books-read](./media/books-read.gif)
+Highlights which books your pet has already read by cross-checking one title at a time.  
+This script is modified from [Neopets Read Books Tracker](https://greasyfork.org/en/scripts/504166-neopets-read-books-tracker).  
+To use it, open the file and update the `PETNAME` value inside the script — no need to rename the file itself.
 
 ---
 
 ### 👓 `neoboard-minimum-font-size.js`  
-Ensures all Neoboard posts use a readable minimum font size of 12pt.
-
-**Preview:**  
-![neoboard-font](./media/neoboard-font.gif)
+Ensures all Neoboard posts use a readable minimum font size of 12pt because this user's eyes are getting old.
 
 ---
 
 ### 🔄 `redirect-impress.js`  
-Redirects outdated links from `impress-2020.openneo.net` to the updated DTI site.
-
-**Preview:**  
-![redirect-impress](./media/redirect-impress.gif)
+Automatically redirects any `impress-2020.openneo.net` trade or wishlist link to the correct `impress.openneo.net` version.  
+Clicking on a 2020 link (like an old trade list) will take you directly to the user's current trade list instead.
 
 ---
 
 ### 🐾 `redirect-pet-training-to-status.js`  
-Automatically redirects pet training pages to the “status” view.
-
-**Preview:**  
-![redirect-training](./media/redirect-training.gif)
+Redirects completed pet training pages to the “status” tab, skipping the training academy’s front page.  
+Works on both the Swashbuckling Academy and Mystery Island Training School.
 
 ---
 
