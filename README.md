@@ -1,4 +1,4 @@
-### 🧙 Neopets Userscripts Collection
+## 🧙 Neopets Userscripts Collection
 
 > Built using **ChatGPT-4o**  
 > Enhance your Neopets experience with quality-of-life scripts for navigation, readability, and customization.
