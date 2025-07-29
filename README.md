@@ -42,7 +42,7 @@ Adds buttons to go directly to a user’s Wishlist or Trade List on Dress to Imp
 ---
 
 ### 🛒 `highlight-permanent-buyables.js`  
-Automatically highlights “Permanent Buyable” text across DTI and Neopets item pages.  
+Highlights “Permanent Buyable” text across DTI and Neopets item pages.  
 Requires the [Neopets Lebron NC Values](https://greasyfork.org/en/scripts/540477-neopets-lebron-nc-values) script to be installed and running.
 
 **Preview:**  
@@ -51,7 +51,7 @@ Requires the [Neopets Lebron NC Values](https://greasyfork.org/en/scripts/540477
 ---
 
 ### ✏️ `highlight-text-to-search-sdb.js`  
-Lets you highlight any item name on the site and instantly search for it in your Safety Deposit Box.
+Lets you highlight any item name on the site and search for it in your Safety Deposit Box.
 
 **Preview:**  
 <img src="https://i.imgur.com/NIAsgIe.gif" width="50%">
@@ -59,10 +59,10 @@ Lets you highlight any item name on the site and instantly search for it in your
 ---
 
 ### 🧩 `jellyneo-to-dti-item-search.js`  
-Lets you highlight any item name on JellyNeo and instantly search for it on DTI.
+Lets you highlight any item name on JellyNeo and search for it on DTI.
 
 **Preview:**  
-<img src="https://i.imgur.com/T6Pr24x.gif" width="50%">
+<img src="https://i.imgur.com/T6Pr24x.gif" width="40%">
 
 ---
 
@@ -89,8 +89,7 @@ Ensures all Neoboard posts use a readable minimum font size of 12pt because this
 ---
 
 ### 🔄 `redirect-impress.js`  
-Automatically redirects any `impress-2020.openneo.net` trade or wishlist link to the correct `impress.openneo.net` version.  
-Clicking on a 2020 link (like an old trade list) will take you directly to the user's current trade list instead.
+Redirects any `impress-2020.openneo.net` tradelist link to their `impress.openneo.net` version.  
 
 ---
 
