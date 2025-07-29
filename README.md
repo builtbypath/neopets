@@ -62,7 +62,7 @@ Lets you highlight any item name on the site and search for it in your Safety De
 Lets you highlight any item name on JellyNeo and search for it on DTI.
 
 **Preview:**  
-<img src="https://i.imgur.com/T6Pr24x.gif" width="40%">
+<img src="https://i.imgur.com/T6Pr24x.gif" width="50%">
 
 ---
 
