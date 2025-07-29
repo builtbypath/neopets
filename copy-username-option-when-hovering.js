@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Neopets Copy Username Icon
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/builtbypath/neopets
 // @version      1.2
 // @description  Show a clipboard icon next to usernames on userlookup links and copy to clipboard on click
 // @author       You
