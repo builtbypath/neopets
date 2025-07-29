@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Neopets SDB Search Icon (Fixed)
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/builtbypath/neopets
 // @version      1.4
 // @description  Show a yellow magnifying icon when highlighting text on Neopets; click to search it in SDB
 // @match        https://www.neopets.com/*
