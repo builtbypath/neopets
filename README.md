@@ -94,6 +94,9 @@ To use it, open the file and update the `PETNAME` value inside the script — no
 ### 👓 `neoboard-minimum-font-size.js`  
 Ensures all Neoboard posts use a readable minimum font size of 12pt because this user's eyes are getting old.
 
+**Preview:**  
+<img src="https://i.imgur.com/CDWjXVc.gif" width="50%">
+
 ---
 
 ### 🔄 `redirect-impress.js`  
