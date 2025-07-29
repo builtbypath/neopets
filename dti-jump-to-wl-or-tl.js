@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         DTI: Wishlist + Jump to Compare Button
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/builtbypath/neopets
 // @version      5.1
 // @description  Adds floating Wishlist and Back buttons to DTI user pages. "Back to Top" now jumps to the "Compare with Your Items" section for precise navigation. Clean styling, no text shadow, instant anchor jumps included.
 // @author       You
