@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Neopets: Make Neoboard Links Clickable (Extended)
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/builtbypath/neopets
 // @version      1.5
 // @description  Makes DTI, Jellyneo, Petpages, Userlookups, Gallery, and full Neopets URLs (including query strings) clickable on Neoboards, even if not already hyperlinked.
 // @author       Nyu + ChatGPT
