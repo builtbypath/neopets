@@ -62,7 +62,7 @@ Lets you highlight any item name on the site and instantly search for it in your
 Lets you highlight any item name on JellyNeo and instantly search for it on DTI.
 
 **Preview:**  
-<img src="https://i.imgur.com/YagNRyg.gif" width="50%">
+<img src="https://i.imgur.com/T6Pr24x.gif" width="50%">
 
 ---
 
@@ -101,10 +101,11 @@ Works on both the Swashbuckling Academy and Mystery Island Training School.
 ---
 
 ### 🔍 `search-sdb-from-DTI-item-pages.js`  
-Adds a 🔍 “Search SDB” button directly on DTI item pages.
+Adds a 🔍 “Search SDB” button directly on DTI item pages.  
+If the icon does not appear right away, try reloading the page.
 
 **Preview:**  
-![sdb-from-dti](./media/sdb-from-dti.gif)
+<img src="https://i.imgur.com/slgRv5Q.gif" width="80%">
 
 ---
 
