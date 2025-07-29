@@ -76,6 +76,8 @@ Turns plain-text Jellyneo URLs in DTI wishlists into clickable links.
 
 ### 🌐 `make-ncboard-links-clickable.js`  
 Turns Neoboard plain-text links into clickable links.  
+🔧 *Modified from [this script on GreasyFork](https://greasyfork.org/en/scripts/480636-neopets-replace-nc-tl-wl-links-with-actual-link) to support more types of links beyond just DTI and JN.*
+
 
 **Preview:**  
 <img src="https://i.imgur.com/KRamb2X.gif" width="50%">
