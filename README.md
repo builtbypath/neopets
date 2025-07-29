@@ -5,16 +5,16 @@ s# 🧙 Neopets Userscripts Collection
 
 ---
 
-## 🔧 How to Install
+### 🔧 How to Install
 
-	1.	Install a userscript manager like
-  - Userscripts (OpenUserJS) for Chrome/Edge
-  - Violentmonkey for Firefox
-  - Tampermonkey (Chrome, Firefox, Edge)
-  - Greasemonkey for Firefox
-	2.	Click on any .js file in this repo
-	3.	Press Install on the userscript screen
-	4.	Refresh your Neopets or DTI page to see the magic ✨
+1. Install a userscript manager like  
+   - [**Userscripts (OpenUserJS)** for Chrome/Edge](https://chromewebstore.google.com/detail/userscripts/oegnpmiddfljlloiklpkeelagaeejfai)  
+   - [**Violentmonkey** for Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)  
+   - [**Tampermonkey** (Chrome, Firefox, Edge)](https://www.tampermonkey.net/)  
+   - [**Greasemonkey** for Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+2. Click on any `.js` file in this repo  
+3. Press **Install** on the userscript screen  
+4. Refresh your Neopets or DTI page to see the magic ✨### 🔧 How to Install
 
 ---
 
