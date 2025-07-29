@@ -85,9 +85,12 @@ Turns Neoboard plain-text links into clickable links.
 ---
 
 ### 📚 `mark-books-read-EDIT-PETNAME.js`  
-Highlights which books your pet has already read by cross-checking one title at a time.  
+Highlights which books your designated pet has already read by cross-checking one title at a time.  
 This script is modified from [Neopets Read Books Tracker](https://greasyfork.org/en/scripts/504166-neopets-read-books-tracker).  
 To use it, open the file and update the `PETNAME` value inside the script — no need to rename the file itself.
+
+**Preview:**  
+<img src="https://i.imgur.com/6aGIOuG.gif" width="50%">
 
 ---
 
