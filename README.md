@@ -78,7 +78,6 @@ Turns plain-text Jellyneo URLs in DTI wishlists into clickable links.
 Turns Neoboard plain-text links into clickable links.  
 🔧 *Modified from [this script on GreasyFork](https://greasyfork.org/en/scripts/480636-neopets-replace-nc-tl-wl-links-with-actual-link) to support more types of links beyond just DTI and JN.*
 
-
 **Preview:**  
 <img src="https://i.imgur.com/KRamb2X.gif" width="50%">
 
@@ -104,6 +103,9 @@ Ensures all Neoboard posts use a readable minimum font size of 12pt because this
 
 ### 🔄 `redirect-impress.js`  
 Redirects any `impress-2020.openneo.net` tradelist link to their `impress.openneo.net` version.  
+
+**Preview:**  
+<img src="https://i.imgur.com/4LjJKLG.gif" width="50%">
 
 ---
 
